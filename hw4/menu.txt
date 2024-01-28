@@ -1,0 +1,22 @@
+Product        Price(TL)
+
+Çorba          10.00
+
+Kebap          75.99
+
+Lahmacun       21.50
+
+Pide           40.00
+
+Döner          55.60
+
+Kola           15.00
+
+Su             5.00
+
+Künefe         60.00
+
+Sütlaç         32.50
+
+Baklava        61.00
+
