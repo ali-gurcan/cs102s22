@@ -1,0 +1,5 @@
+grandfather 88
+ahmet 66
+ayse 50
+firstkid 25
+second 20

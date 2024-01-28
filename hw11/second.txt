@@ -1,0 +1,5 @@
+mehmet 88
+father 38
+mom 33
+biggie 18
+secondchild 11
